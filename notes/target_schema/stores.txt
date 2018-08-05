@@ -1,0 +1,22 @@
+URL
+	https://redsky.target.com/v2/stores/nearby/15213?key=eb2551e4accc14f38cc42d32fbc2b2ea&locale=en-US&limit=20&range=250
+
+Headers
+	:authority: redsky.target.com
+	:method: GET
+	:path: /v2/stores/nearby/15213?key=eb2551e4accc14f38cc42d32fbc2b2ea&locale=en-US&limit=20&range=250
+	:scheme: https
+	accept: application/json
+	accept-encoding: gzip, deflate, br
+	accept-language: en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7,zh-CN;q=0.6
+	cache-control: no-cache
+	origin: https://www.target.com
+	pragma: no-cache
+	referer: https://www.target.com/store-locator/find-stores/15213
+	user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36
+
+Parameters
+	key: eb2551e4accc14f38cc42d32fbc2b2ea
+	locale: en-US
+	limit: 20
+	range: 250

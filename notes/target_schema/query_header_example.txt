@@ -1,0 +1,53 @@
+header
+	:authority: redsky.target.com
+	:method: GET
+	:path: /v1/plp/search/?count=24&offset=0&category=5xtg6&faceted_value=5zktyZ5zl7w&default_purchasability_filter=true&puis=true&visitorId=0164E6A4D998020186B558915E6A521E&pageId=%2Fc%2F5xtg6&channel=web&store_ids=2088
+	:scheme: https
+	accept: application/json
+	accept-encoding: gzip, deflate, br
+	accept-language: en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7,zh-CN;q=0.6
+	cache-control: no-cache
+	origin: https://www.target.com
+	pragma: no-cache
+	referer: https://www.target.com/c/electronics/-/N-5xtg6Z5zktyZ5zl7w?storeIdList=2088&Nao=0&puis=true
+	user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36
+
+Parameter
+	count: 24
+	offset: 0
+	category: 5xtg6
+	faceted_value: 5zktyZ5zl7w
+	default_purchasability_filter: true
+	puis: true
+	visitorId: 0164E6A4D998020186B558915E6A521E
+	pageId: /c/5xtg6
+	channel: web
+	store_ids: 2088
+
+
+second search
+header
+	:authority: redsky.target.com
+	:method: GET
+	:path: /v1/plp/search/?count=24&offset=0&category=5xtg6&faceted_value=5zktyZ5zl7w&default_purchasability_filter=true&puis=true&visitorId=0164E6A4D998020186B558915E6A521E&pageId=%2Fc%2F5xtg6&channel=web&store_ids=2088%2C2584
+	:scheme: https
+	accept: application/json
+	accept-encoding: gzip, deflate, br
+	accept-language: en-US,en;q=0.9,zh-TW;q=0.8,zh;q=0.7,zh-CN;q=0.6
+	cache-control: no-cache
+	origin: https://www.target.com
+	pragma: no-cache
+	referer: https://www.target.com/c/electronics/-/N-5xtg6Z5zktyZ5zl7w?storeIdList=2088%2C2584&Nao=0&puis=true
+	user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36
+
+parameter
+	count: 24
+	offset: 0
+	category: 5xtg6
+	faceted_value: 5zktyZ5zl7w
+	default_purchasability_filter: true
+	puis: true
+	visitorId: 0164E6A4D998020186B558915E6A521E
+	pageId: /c/5xtg6
+	channel: web
+	store_ids: 2088,2584
